@@ -6,7 +6,7 @@
 <p align="center">
   🚀 Passionate about tech, building full-stack apps, and always learning.<br>
   💡 I enjoy solving problems and turning ideas into real projects.<br>
-  🌎 Based in [Tu país], speaking [Idiomas que manejas].
+  🌎 Based in Mexico, speaking English and Spanish.
 </p>
 
 ---
