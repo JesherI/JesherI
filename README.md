@@ -45,15 +45,6 @@
 - 🤖 AI & automation basics
 
 ---
-
-## 🚀 Featured Projects
-- 🔹 **Project Name** – Short description of the project  
-  `Tech: React, Next.js, Firebase`
-
-- 🔹 **Project Name** – Short description of the project  
-  `Tech: TypeScript, MongoDB`
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
