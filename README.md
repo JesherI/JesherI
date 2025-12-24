@@ -4,49 +4,88 @@
 </h1>
 
 <p align="center">
-  🚀 Passionate about tech, building full-stack apps, and always learning.<br>
-  💡 I enjoy solving problems and turning ideas into real projects.<br>
-  🌎 Based in Mexico, speaking English and Spanish.
+  🚀 Full-Stack Developer in progress | Tech enthusiast | Problem solver<br>
+  💡 Turning ideas into real, scalable projects<br>
+  🌎 Mexico • English & Spanish
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JesherI&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- 💻 I build modern **full-stack applications** focused on performance and clean UI.
+- 🧠 I like understanding how things work, not just using tools.
+- 🔧 Interested in web, mobile apps, and software architecture.
+- 📚 Constantly learning through real projects.
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
+- ⚡ Advanced Next.js & React patterns
+- 🏗️ Backend architecture & APIs
+- 📱 Mobile development with React Native / Expo
+- 🤖 AI & automation basics
 
+---
+
+## 🚀 Featured Projects
+- 🔹 **Project Name** – Short description of the project  
+  `Tech: React, Next.js, Firebase`
+
+- 🔹 **Project Name** – Short description of the project  
+  `Tech: TypeScript, MongoDB`
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=JesherI&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesherI&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesherI&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/jesherI/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jeshermendieta@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/JesherI"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jeshersin_09?igsh=MXVrdzkzazJiNzk2cA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jesherI/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jeshermendieta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JesherI">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/jeshersin_09" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  🧠 *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+  🧠 <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br>
+  — Cory House
 </p>
