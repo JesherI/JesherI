@@ -54,15 +54,24 @@
   `Tech: TypeScript, MongoDB`
 
 ---
-
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=JesherI&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesherI&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JesherI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JesherI&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesherI&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesherI&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
 </p>
 
 ---
