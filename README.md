@@ -58,10 +58,21 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JesherI&theme=tokyo-night&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=JesherI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JesherI&theme=tokyonight&hide_border=true" 
+    height="180em"
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesherI&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180em"
+  />
+</p>
 
 ---
 
